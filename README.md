@@ -1,2 +1,3 @@
 # Dijkstra-Ax-mapas
-Utilizare el algoritmo de Dijkstra y A* para calcular el recorrido mínimo en calles reales, tomadas de OpenStreetMap. Al final del proceso se obtiene una imagen con el camino mas corto trazado entre los dos puntos (origen-destino)
+I used Dijkstra's algorithm and A* for calculate the shortest path on the real streets of Trujillo, Peru. I obtained the street data from OpenStreetMap. At the end of the process, we generated an image showing the outline of the shortest path between the two points (origin - destination)
+
